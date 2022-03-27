@@ -5,4 +5,4 @@ this is new release!
 
 nowa wersja 
 
-nowa nowa wersja 1.2
+nowa nowa wersja 1.2 -0 popraka
