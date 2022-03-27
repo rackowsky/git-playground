@@ -4,4 +4,14 @@ const test = () => {
     return <h1>hello world</h1>
 }
 
+
+const pull = () =>{
+    return(
+        <h1>123</h1>
+    )
+}
+
 export default test
+
+
+//dwie funkcje zostaly polaczone
