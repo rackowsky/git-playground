@@ -1,6 +1,19 @@
 nowe wydanie
+
 const data = () =>{
     return(
         <h1> hello world </h1>
     )
 }
+
+export const Data = [
+    {
+        title: "lorem ipsum",
+        test: "dolor sit amet"
+    },
+    {
+        title: "lorem ipsum",
+        test: "dolor sit amet"
+    }
+]
+
