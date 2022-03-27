@@ -1,1 +1,12 @@
 nowe wydanie
+
+export const Data = [
+    {
+        title: "lorem ipsum",
+        test: "dolor sit amet"
+    },
+    {
+        title: "lorem ipsum",
+        test: "dolor sit amet"
+    }
+]
